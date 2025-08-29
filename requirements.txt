@@ -4,3 +4,5 @@ scikit-learn
 flask
 gradio
 shap
+reportlab
+requests
